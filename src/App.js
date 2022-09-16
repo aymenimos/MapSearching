@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+Run this command 
+"npm add typescript @types/node @types/react @types/react-dom @types/jest --dev"
